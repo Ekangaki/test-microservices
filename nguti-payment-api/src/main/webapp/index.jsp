@@ -9,7 +9,7 @@
 
   <p>
     <a href="https://ait.com/online-training-schedules" target="_blank">
-      Visit Our Training Schedule
+      Visit Our Online Store
     </a>
   </p>
 
