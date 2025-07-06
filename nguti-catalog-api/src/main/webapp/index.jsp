@@ -2,10 +2,10 @@
 <html lang="en">
 <head>
   <meta charset="UTF-8">
-  <title>Nguti E-Commerce payment Micro-Service</title>
+  <title>Nguti E-Commerce catalog Micro-Service</title>
 </head>
 <body>
-  <h1 style="color:red;">NGUTI E-COMMERCE PAYMENT MICRO-SERVICE</h1>
+  <h1 style="color:red;">NGUTI E-COMMERCE CATALOG MICRO-SERVICE</h1>
 
   <p>
     <a href="https://ait.com/online-training-schedules" target="_blank">
